@@ -2,8 +2,8 @@ package rohit;
 
 public class GreatestCommonDivisorofStrings {
     public static void main(String[] args) {
-        String A = "ABCDEF";
-        String B = "ABC";
+        String A = "AAABBB";
+        String B = "AAA";
         char[] strA = A.toCharArray();
         char[] strB = B.toCharArray();
 
