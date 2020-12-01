@@ -26,7 +26,7 @@ public class FairCandySwapUsingSet {
 
         System.out.println(swap);
 
-        throw null;
+//        throw null;
 
     }
 }
