@@ -13,7 +13,7 @@ public class CodingFriends {
         }
 
     public static void main(String[] args) {
-        System.out.println(minNum(3,6,5));
+        System.out.println(minNum(3,5,6));
 
     }
 

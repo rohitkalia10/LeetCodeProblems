@@ -32,7 +32,7 @@ public class PracticeWork {
     }
 
     public static void main(String[] args) {
-        int[] num = {1,2,3,4,7,9,4,5};
+        int[] num = {1,2,3,4,5};
         System.out.println(movesToMakeZigzag(num));
     }
 
